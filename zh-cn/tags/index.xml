@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 白匣子</title>
+    <link>http://baixiazi.art/zh-cn/tags/</link>
+    <description>Recent content in Tags on 白匣子</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="http://baixiazi.art/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>images</title>
+      <link>http://baixiazi.art/zh-cn/tags/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://baixiazi.art/zh-cn/tags/images/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
