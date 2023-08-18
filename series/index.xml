@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on White Box</title>
-    <link>http://baixiazi.art/series/</link>
+    <link>baixiazi.art/series/</link>
     <description>Recent content in Series on White Box</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://baixiazi.art/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="baixiazi.art/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>example posts</title>
-      <link>http://baixiazi.art/series/example-posts/</link>
+      <link>baixiazi.art/series/example-posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://baixiazi.art/series/example-posts/</guid>
+      <guid>baixiazi.art/series/example-posts/</guid>
       <description></description>
     </item>
     

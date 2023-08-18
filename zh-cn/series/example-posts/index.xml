@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>example posts on 白匣子</title>
-    <link>http://baixiazi.art/zh-cn/series/example-posts/</link>
+    <link>baixiazi.art/zh-cn/series/example-posts/</link>
     <description>Recent content in example posts on 白匣子</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="http://baixiazi.art/zh-cn/series/example-posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="baixiazi.art/zh-cn/series/example-posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>艺术项目</title>
-      <link>http://baixiazi.art/zh-cn/blog/coffee-ipsum/</link>
+      <link>baixiazi.art/zh-cn/blog/coffee-ipsum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://baixiazi.art/zh-cn/blog/coffee-ipsum/</guid>
+      <guid>baixiazi.art/zh-cn/blog/coffee-ipsum/</guid>
       <description>未完待续&amp;hellip;</description>
     </item>
     

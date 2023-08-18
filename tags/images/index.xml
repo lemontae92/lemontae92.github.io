@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>images on White Box</title>
-    <link>http://baixiazi.art/tags/images/</link>
+    <link>baixiazi.art/tags/images/</link>
     <description>Recent content in images on White Box</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://baixiazi.art/tags/images/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="baixiazi.art/tags/images/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Art Project</title>
-      <link>http://baixiazi.art/blog/coffee-ipsum/</link>
+      <link>baixiazi.art/blog/coffee-ipsum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://baixiazi.art/blog/coffee-ipsum/</guid>
+      <guid>baixiazi.art/blog/coffee-ipsum/</guid>
       <description>To be continue&amp;hellip;</description>
     </item>
     
