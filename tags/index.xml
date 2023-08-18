@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on White Box</title>
-    <link>https://www.baixiazi.art/tags/</link>
+    <link>https://baixiazi.art/tags/</link>
     <description>Recent content in Tags on White Box</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.baixiazi.art/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://baixiazi.art/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>images</title>
-      <link>https://www.baixiazi.art/tags/images/</link>
+      <link>https://baixiazi.art/tags/images/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.baixiazi.art/tags/images/</guid>
+      <guid>https://baixiazi.art/tags/images/</guid>
       <description></description>
     </item>
     
